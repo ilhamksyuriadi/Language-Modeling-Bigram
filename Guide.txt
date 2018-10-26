@@ -1,0 +1,2 @@
+1. Open the file, it will ask you to input 10 words in Indonesian language
+2. After input 10 word, it will show you the prediction after input word
